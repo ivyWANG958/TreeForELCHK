@@ -1,79 +1,91 @@
 {
     "name": "Arts",
     "children": [{
-            "name": "Philosophy",
+            "name": "品種形象&内部建設",
             "children": [{
-                    "name": "Inner world",
-                    "children": [{
-                        "name": "Discerning worldviews",
-                        "children": [{
-                                "name": "research paper",
+                    "name": "文字&文化",
+                   
+                     "children": [
+                        { "name": "出版支援", "size": 1983 },
 
-                                "size": 3990
-                            },
-                            { "name": "my love theory", "size": 4220 },
-                            { "name": "weekly reflections", "size": 2768 }
-                        ]
-                    }]
-                },
-                {
-                    "name": "Dream",
-                    "children": [
-                        { "name": "dream interpretation and peresonal growth", "size": 3534 }
+                        { "name": "推動內部正團文化", "size": 2042 }
                     ]
                 },
                 {
-                    "name": "Outer world",
+                    "name": "創新管理",
                     "children": [
-                        { "name": "Mysticism and religious experience", "size": 1983 },
-
-                        { "name": "Moral challenges in Chinese culture", "size": 2042 }
+                        { "name": "分段", "size": 3534 },
+                          { "name": "系統化", "size": 9416 }
                     ]
-                }
+                },
+                {
+                    "name": "人才&福利",
+                    "children": [
+                        { "name": "新人政策", "size": 1983 },
+
+                        { "name": "老員工待遇", "size": 2042 }
+                    ]
+                },
+                     {
+                    "name": "傳媒&危機處理",
+                    "children": [
+                        { "name": "發言人體系", "size": 1983 },
+
+                        { "name": "傳媒機制", "size": 2042 }
+                    ]
+                }, {
+                    "name": "實踐 & 分享",
+                    "children": [
+                        { "name": "改革形象", "size": 1983 },
+                          { "name": "為群衆發聲", "size": 1983 },
+                          { "name": "服務分享", "size": 1983 },
+
+                        { "name": "共同進步", "size": 2042 }
+                    ]
+                }     
             ]
         }, {
-            "name": "Communication",
+            "name": "強化網絡及擴大影響力",
             "children": [
 
                 {
-                    "name": "Journalism",
+                    "name": "市場推廣&品牌維繫",
                     "children": [
-                        { "name": "English writings", "size": 1983 },
-                        { "name": "Chinese writings", "size": 2042 },
-                        { "name": "Broadcast writings", "size": 4325 }
+                        { "name": "社交媒體行銷", "size": 1983 },
+                        { "name": "EDM系統", "size": 2042 },
+                        { "name": "多媒體設計", "size": 4325 }
                     ]
                 },
-                {
-                    "name": "Film",
+                 {
+                    "name": "加強合作&網絡管理",
                     "children": [
-                        { "name": "film review: Journalim as a calling", "size": 8833 }
-
-
+                        { "name": "開拓商界伙伴", "size": 1983 },
+                        { "name": "持份者管理系統化", "size": 2042 },
+                        { "name": "跨服務的合作", "size": 4325 }
                     ]
                 },
-                {
-                    "name": "Public Speaking",
+                 {
+                    "name": "資源 & 理財規劃",
                     "children": [
-                        { "name": "how to speak and how to listern", "size": 8833 }
-
-
+                        { "name": "財政政策", "size": 1983 },
+                        { "name": "「公事包」", "size": 2042 },
+                        { "name": "籌款", "size": 4325 }
                     ]
                 }
+               
+               
 
             ]
         },
         {
-            "name": "Social science",
+            "name": "優化信息資訊整理",
             "children": [{
-                "name": "History",
-                "children": [{
-                        "name": "Chinese history",
-                        "children": [{ "name": "Chinese history and civilization", "size": 721 }]
-                    },
-                    {
-                        "name": "Western history",
-                        "children": [{ "name": "Christianity and civilization", "size": 4294 }]
-                    }
+                "name": "電子化",
+                "children": [
+                    { "name": "善用數據", "size": 721 },
+                     { "name": "服務管理系統", "size": 494 },
+                         { "name": "資訊科技", "size": 849 }
+                                 
                 ]
             }]
         }
